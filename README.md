@@ -1,4 +1,3 @@
-# int-247-km007-ca-2-santosh199518
 A project on Image Classification where we can classify the image into different classes based upon different attributes present on given dataset.
 
 ### It consists of three files:
